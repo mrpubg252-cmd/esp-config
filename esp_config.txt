@@ -1,9 +1,4 @@
 Bypass=true
-Message=ت 44 مفعلة
-TextSize=13.0
-TextPositionX=-70.1
-TextPositionY=35.1
-TextColor=255,255,255,255
 Message=الإعدادات 44 مفعلة
 TextSize=13.0
 TextPositionX=-70.1
