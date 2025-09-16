@@ -1,4 +1,4 @@
-Bypass=true
+Bypass=false
 Message=الإعدادات 33 مفعلة
 TextSize=13.0
 TextPositionX=-70.1
