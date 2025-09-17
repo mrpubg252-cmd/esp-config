@@ -1,7 +1,7 @@
 Bypass=true
 
 # النص المتحرك
-Message=النص المتحرك هنا
+Message=2.1 ﺚﻳﺪﺤﺗ
 TextSize=13.0
 TextPositionX=0.0
 TextPositionY=700.0
@@ -9,7 +9,7 @@ TextColor=255,255,255,255
 Speed=2.0
 
 # النص الثابت
-StaticMessage=النص الثابت هنا
+StaticMessage= ﻦﻳﻻ ﻥﻭﺍ ﺔﻳﺎﻤﺣ ﺚﻳﺪﺤﺗ ﻢﺘﻳ
 StaticTextSize=12.0
 StaticTextPositionX=-50.0
 StaticTextPositionY=650.0
