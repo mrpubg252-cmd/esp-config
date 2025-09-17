@@ -1,7 +1,7 @@
 Bypass=true
 
 # النص المتحرك
-Message=2.1 ﺚﻳﺪﺤﺗ
+Message=2.2 ﺚﻳﺪﺤﺗ
 TextSize=13.0
 TextPositionX=0.0
 TextPositionY=700.0
