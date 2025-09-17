@@ -1,9 +1,21 @@
-Bypass=false
-Message=الإعدادات 33 مفعلة
+Bypass=true
+
+# النص المتحرك
+Message=النص المتحرك هنا
 TextSize=13.0
-TextPositionX=-70.1
-TextPositionY=35.1
-TextColor=255,0,0,255
+TextPositionX=0.0
+TextPositionY=700.0
+TextColor=255,255,255,255
+Speed=2.0
+
+# النص الثابت
+StaticMessage=النص الثابت هنا
+StaticTextSize=12.0
+StaticTextPositionX=-50.0
+StaticTextPositionY=650.0
+StaticTextColor=0,255,0,255
+
+# الباتشات
 Patch=libUE4.so,429EDA8,00 00 A0 E3 1E FF 2F E1
 Patch=libUE4.so,0x429EEF4,00 00 A0 E3 1E FF 2F E1
 Patch=libUE4.so,0x486A00C,00 00 A0 E3 1E FF 2F E1
