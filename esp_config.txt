@@ -1,7 +1,7 @@
 Bypass=true
 
 # النص المتحرك
-Message=2.2 ﺚﻳﺪﺤﺗ
+Message=2.3 ﺚﻳﺪﺤﺗ
 TextSize=13.0
 TextPositionX=0.0
 TextPositionY=700.0
@@ -16,6 +16,14 @@ StaticTextPositionY=650.0
 StaticTextColor=0,255,0,255
 
 # الباتشات
-Patch=libUE4.so,429EDA8,00 00 A0 E3 1E FF 2F E1
-Patch=libUE4.so,0x429EEF4,00 00 A0 E3 1E FF 2F E1
-Patch=libUE4.so,0x486A00C,00 00 A0 E3 1E FF 2F E1
+Patch=libTBlueData.so,0x6A650,00 00 A0 E3 1E FF 2F E1
+Patch=libTBlueData.so,0x13B18C,00 00 A0 E3 1E FF 2F E1
+Patch=libTBlueData.so,0x595F8,00 00 A0 E3 1E FF 2F E1
+Patch=libTBlueData.so,0x242D0,00 00 A0 E3 1E FF 2F E1
+Patch=libTBlueData.so,0x24E24,00 00 A0 E3 1E FF 2F E1
+Patch=libTBlueData.so,0x26744,00 00 A0 E3 1E FF 2F E1
+Patch=libUE4.so,0x175BDBC,00 20 70 47
+Patch=libUE4.so,0x175CF60,00 20 70 47
+Patch=libUE4.so,0x175D028,00 20 70 47
+Patch=libUE4.so,0x175E1FC,00 20 70 47
+Patch=libUE4.so,0x175E570,00 20 70 47
