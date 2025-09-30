@@ -1,12 +1,12 @@
 Bypass=true
 
 # النص المتحرك
-Message=2.3 ﺚﻳﺪﺤﺗ
+Message=2.4 ﺚﻳﺪﺤﺗ
 TextSize=13.0
 TextPositionX=0.0
 TextPositionY=700.0
 TextColor=255,255,255,255
-Speed=2.0
+Speed=1.0
 
 # النص الثابت
 StaticMessage= ﻦﻳﻻ ﻥﻭﺍ ﺔﻳﺎﻤﺣ ﺚﻳﺪﺤﺗ ﻢﺘﻳ
@@ -16,14 +16,34 @@ StaticTextPositionY=650.0
 StaticTextColor=0,255,0,255
 
 # الباتشات
-Patch=libTBlueData.so,0x6A650,00 00 A0 E3 1E FF 2F E1
-Patch=libTBlueData.so,0x13B18C,00 00 A0 E3 1E FF 2F E1
-Patch=libTBlueData.so,0x595F8,00 00 A0 E3 1E FF 2F E1
-Patch=libTBlueData.so,0x242D0,00 00 A0 E3 1E FF 2F E1
-Patch=libTBlueData.so,0x24E24,00 00 A0 E3 1E FF 2F E1
-Patch=libTBlueData.so,0x26744,00 00 A0 E3 1E FF 2F E1
-Patch=libUE4.so,0x175BDBC,00 20 70 47
-Patch=libUE4.so,0x175CF60,00 20 70 47
-Patch=libUE4.so,0x175D028,00 20 70 47
-Patch=libUE4.so,0x175E1FC,00 20 70 47
-Patch=libUE4.so,0x175E570,00 20 70 47
+Patch=libUE4.so,0xA4A1320,00 00 00 00
+Patch=libUE4.so,0xA49F2F2,00 00 00 00
+Patch=libUE4.so,0xA49F314,00 00 00 00
+Patch=libUE4.so,0xA49F320,00 00 00 00
+Patch=libUE4.so,0xA49F76D,00 00 00 00 
+Patch=libUE4.so,0xA49F798,00 00 00 00
+Patch=libUE4.so,0xA4955BC,00 00 00 00 
+Patch=libUE4.so,0xA495644,00 00 00 00
+Patch=libUE4.so,0xA49571D,00 00 00 00 
+Patch=libUE4.so,0xA496760,00 00 00 00
+Patch=libUE4.so,0xA4980C3,00 00 00 00
+Patch=libUE4.so,0xA4998B6,00 00 00 00
+Patch=libUE4.so,0xA4998D2,00 00 00 00
+Patch=libUE4.so,0xA4998DD,00 00 00 00 
+Patch=libUE4.so,0xA499DCB,00 00 00 00 
+Patch=libUE4.so,0xA49A114,00 00 00 00
+Patch=libUE4.so,0xA49A12F,00 00 00 00 
+Patch=libUE4.so,0xA49A145,00 00 00 00
+Patch=libUE4.so,0xA49A14F,00 00 00 00 
+Patch=libUE4.so,0xA49A1AA,00 00 00 00 
+Patch=libUE4.so,0xA49A1D1,00 00 00 00
+Patch=libUE4.so,0xA49A211,00 00 00 00
+Patch=libUE4.so,0xA49A252,00 00 00 00
+Patch=libUE4.so,0xA49A295,00 00 00 00
+Patch=libUE4.so,0xA49AA7C,00 00 00 00 
+Patch=libUE4.so,0xA49AA8B,00 00 00 00 
+Patch=libUE4.so,0xA49AAA8,00 00 00 00
+Patch=libUE4.so,0xA49B205,00 00 00 00
+Patch=libUE4.so,0xA48FF39,00 00 00 00
+Patch=libUE4.so,0xA48FF3F,00 00 00 00 
+Patch=libUE4.so,0xA48FF44,00 00 00 00
